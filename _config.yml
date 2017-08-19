@@ -8,7 +8,7 @@ author: Shinpei
 twitter_username: shinpeinkt
 github_username: shinpei
 
-baseurl: "/blog" # the subpath of your site, e.g. /blog
+baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://shinpei.github.io" # the base hostname & protocol for your site
 
 google_analytics_id: UA-51537905-2
