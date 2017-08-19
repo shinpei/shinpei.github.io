@@ -1,17 +1,17 @@
 # Site settings
-title: "Paper Jekyll Theme"
+title: "flyhigh"
 description: > 
-  Write a description of your website here.
+ ようこそ。主にプログラミングに関する話題を書いたブログです。
 
-author: Johnny Appleseed
-email: johnny@appleseed.com
-twitter_username:
-github_username:
+author: Shinpei
+#email: johnny@appleseed.com
+twitter_username: shinpeinkt
+github_username: shinpei
 
-baseurl: "/paper-jekyll-theme" # the subpath of your site, e.g. /blog
-url: "https://deadbeef.me" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://shinpei.github.io" # the base hostname & protocol for your site
 
-google_analytics_id: UA-1111111111-1
+google_analytics_id: UA-51537905-2
 disqus_id:
 
 # Build settings

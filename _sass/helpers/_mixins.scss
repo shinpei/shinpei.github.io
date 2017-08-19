@@ -16,7 +16,8 @@
 
 // Font families
 @mixin ff--sans-serif($font-weight: normal) {
-    font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;
+/*    font-family: 'Roboto', 'Helvetica Neue', Helvetica, sans-serif;*/
+    font-family: "M＋1p", "Helvetica Neue";
     font-weight: $font-weight;
 }
 

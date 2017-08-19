@@ -104,7 +104,7 @@ def cleanup
 end
 
 def jekyll(directives = '')
-  sh 'jekyll ' + directives
+  sh 'bundle exec jekyll ' + directives
 end
 
 def rake_running

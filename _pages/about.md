@@ -3,20 +3,21 @@ layout: content
 title: About
 permalink: /about/
 ---
-Hi, I'm Johnny and I live in the Shire. Thanks for visiting my site.
+ソフトウェアエンジニア。趣味はプログラミング。メイン言語変遷は以下。
+```
+VB -> perl -> js -> C -> Java/Go
+```
 
-I program and write about software development when I have the time. More information can be found through <a href="https://www.linkedin.com/" data-network="LinkedIn" data-proofer-ignore>LinkedIn.</a>
+A software engineer, coffee consumer, casual biker, and a born programming lover.
 
-----
-
-## The Website
-This site was made on an [Apple MBP](https://www.apple.com/) powered by [Jekyll](https://jekyllrb.com) on [Github Pages](https://pages.github.com).
-I'd love to hear your feedback on this site and my work.
 
 ----
 
-## Etcetera
+## ウェブサイトについて
+徒然なるままに記述。書いた文章は予告なく変更、削除する可能性はあります。
+もし間違いや不適切な記述等発見されましたら、twitterなどでDMいただければ幸いです。
+本ブログは著者個人の意見であり、所属する、した組織・同僚・友人の意見を代替するものではありません。
 
-- [Instagram](https://www.instagram.com/) for 📸
-- [Facebook](https://www.facebook.com/) for 🕺
+
+----
 
